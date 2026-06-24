@@ -13,7 +13,7 @@
   
 - 🌱 I’m currently learning **Spring Boot, Spring AI**
 
-- 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
+- 💬 Ask me about **Python,Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
 
 - 📫 How to reach me **saranshsaini635@gmail.com**
 
