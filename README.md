@@ -1,35 +1,176 @@
-
-
 <h1 align="center">Hi 👋, I'm Saransh Saini</h1>
-<h3 align="center">A passionate AI/ML developer from India</h3>
+<h3 align="center">AI/ML Engineer | Full Stack Developer | Open Source Enthusiast</h3>
 
-
-###
-
-<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
-
-###
-- 🔭 I’m currently working on **Backend**
-  
-- 🌱 I’m currently learning **Spring Boot, Spring AI**
-
-- 💬 Ask me about **Python,Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
-
-- 📫 How to reach me **saranshsaini635@gmail.com**
-
-<h3 align="left">Connect with me:</h3> 
-<p align="left">
-<a href="www.linkedin.com/in/saranshsaini635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/saranshsaini635" height="30" width="40" /></a>
-<a href="https://www.instagram.com/itz_saransh006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_avvhii" height="30" width="40" /></a>
-</p> 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
----
-
-## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Snake animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Developer;Backend+Developer+%7C+Spring+Boot;Building+JARVIS+Inspired+AI+Assistant;Always+Learning+New+Technologies" />
 </p>
 
-<br clear="both">
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE (AI & ML)
+- 💻 AI/ML & Backend Developer
+- 🔭 Currently working on **Spring Boot + Spring AI**
+- 🌱 Learning **Microservices, Docker, Kubernetes**
+- 🤖 Building **MYRAA - AI Desktop Assistant**
+- 💬 Ask me about
+  - Python
+  - Java
+  - Spring Boot
+  - Machine Learning
+  - Node.js
+  - MongoDB
+  - SQL
+  - REST APIs
+
+📫 **Email:**  
+**saranshsaini635@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/saranshsaini635">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.instagram.com/itz_saransh006/">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,spring,nodejs,express,mongodb,mysql,postgresql,html,css,js,react,bootstrap,git,github,docker,linux,vscode,firebase,opencv,tensorflow,pytorch&perline=11"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+⭐ **MYRAA - AI Desktop Assistant**
+
+Voice Controlled AI Assistant inspired by JARVIS.
+
+- Voice Commands
+- AI Chat
+- Automation
+- Desktop Control
+- Web Search
+
+---
+
+⭐ **CampusGuard**
+
+AI-based Student Security System
+
+- YOLOv8
+- DeepFace
+- Face Recognition
+- Crowd Detection
+- Firebase Alerts
+
+---
+
+⭐ **Weather Forecast App**
+
+- Python
+- API Integration
+- GUI
+
+---
+
+⭐ **Spam Email Detector**
+
+- NLP
+- Machine Learning
+- Scikit-Learn
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg">
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=flat"/>
+
+</p>
+
+---
+
+## ☕ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> "Code. Learn. Build. Repeat."
